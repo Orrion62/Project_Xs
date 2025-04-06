@@ -4,3 +4,4 @@ pyobjc-framework-Quartz
 pygetwindow
 Pillow
 pyautogui
+mss
