@@ -8,6 +8,8 @@ to use
 ```
 git clone https://github.com/Lincoln-LM/Project_Xs.git # Clone the repo with git
 cd ./Project_Xs # Enter the folder for the repository
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements_macOS.txt # Install the pip requirements
 python ./src/player_blink_gui_macOS.py # Run the gui script
 ```
