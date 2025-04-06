@@ -1,5 +1,17 @@
 # Project_Xs
 
+##April 2025
+this is a version of this project that works on macOS. 
+
+to use 
+```
+git clone https://github.com/Lincoln-LM/Project_Xs.git # Clone the repo with git
+cd ./Project_Xs # Enter the folder for the repository
+pip install -r requirements_macOS.txt # Install the pip requirements
+python ./src/player_blink_gui_macOS.py # Run the gui script
+```
+
+
 ## What's this?
 Project_Xs is a program that aims recover the internal state of Pokemon BDSPs Xorshift random number generator via observation of player/pokemon random blinks.
 
