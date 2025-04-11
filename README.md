@@ -6,7 +6,7 @@ this is a version of this project that works on macOS.
 
 to use 
 ```
-git clone https://github.com/Lincoln-LM/Project_Xs.git # Clone the repo with git
+git clone https://github.com/Orrion62/Project_Xs.git # Clone the repo with git
 cd ./Project_Xs # Enter the folder for the repository
 python3 -m venv venv
 source venv/bin/activate
