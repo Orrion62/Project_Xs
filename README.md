@@ -1,6 +1,6 @@
 # Project_Xs
 
-##April 2025
+## April 2025
 
 this is a version of this project that works on macOS. 
 
@@ -14,6 +14,8 @@ pip install -r requirements_macOS.txt # Install the pip requirements
 python ./src/player_blink_gui_macOS.py # Run the gui script
 ```
 you also need to allow terminal to screen record in settings
+
+(hints for rng manip : https://docs.google.com/document/d/e/2PACX-1vQmLGZ83qSQqp96lZkoN-k1GEGIXmukjTa-fL8Sr0Y2kMqUwBUKSnoDOE-v2uOHdtpwlSPrqucg4-82/pub#h.7qjdfeb0i8f3)
 
 ## What's this?
 Project_Xs is a program that aims recover the internal state of Pokemon BDSPs Xorshift random number generator via observation of player/pokemon random blinks.
